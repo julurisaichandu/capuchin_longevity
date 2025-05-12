@@ -1,0 +1,6 @@
+matplotlib
+numpy
+statsmodels
+scikit-learn
+plotly
+scipy
