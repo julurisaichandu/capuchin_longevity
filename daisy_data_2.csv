@@ -1,0 +1,135 @@
+```
+date,test,result,units,age_years,sex,id
+2022-11-04,Carcinoma,Positive,,31.5,Female,Daisy
+2022-11-04,Squamous cell carcinoma,Midline dorsal thorax,,31.5,Female,Daisy
+2022-10-06,Cytology,Septic neutrophilic inflammation,,31.4,Female,Daisy
+2022-10-06,Squamous cell proliferation,Positive,,31.4,Female,Daisy
+2022-10-06,Squamous cell atypia,Positive,,31.4,Female,Daisy
+2022-04-14,Lymphocyte count,Reactive,,30.9,Female,Daisy
+2022-04-14,TB test,Negative,,30.9,Female,Daisy
+2022-04-14,BCS,4/9,,30.9,Female,Daisy
+2022-04-14,Weight,2.66,kg,30.9,Female,Daisy
+2022-04-14,Pulse,270,bpm,30.9,Female,Daisy
+2022-04-14,Respiration,60,bpm,30.9,Female,Daisy
+2022-03-17,BCS,4/9,,30.8,Female,Daisy
+2022-03-17,Weight,2.58,kg,30.8,Female,Daisy
+2022-03-17,Pulse,230,bpm,30.8,Female,Daisy
+2022-03-17,Respiration,70,bpm,30.8,Female,Daisy
+2022-03-05,BCS,4/9,,30.8,Female,Daisy
+2022-03-05,Weight,2.58,kg,30.8,Female,Daisy
+2022-03-05,Pulse,220,bpm,30.8,Female,Daisy
+2022-03-05,Respiration,80,bpm,30.8,Female,Daisy
+2021-03-05,Weight,2.58,kg,29.8,Female,Daisy
+2021-03-05,BCS,4/9,,29.8,Female,Daisy
+2021-03-05,Blood Glucose,101,mg/dL,29.8,Female,Daisy
+2019-07-11,Weight,2.52,kg,28.2,Female,Daisy
+2019-07-11,A1,Underweight,,28.2,Female,Daisy
+2019-07-11,Diagnosis,r/o infectious v metabolic,,28.2,Female,Daisy
+2018-09-18,Weight,5.8,lbs,27.3,Female,Daisy
+2018-09-18,Age,27 Yrs. 3 Mos.,,27.3,Female,Daisy
+2018-09-18,BCS,3-3-3,,27.3,Female,Daisy
+2018-09-18,TB test,Negative,,27.3,Female,Daisy
+2018-09-18,Physical Exam,Normal,,27.3,Female,Daisy
+2012-08-20,Glucose,64,mg/dL,21.3,Female,Daisy
+2012-08-20,B/G,101,mg/dL,21.3,Female,Daisy
+2012-01-15,Glucose,147,mg/dL,20.7,Female,Daisy
+2012-01-15,Urea Nitrogen,25,mg/dL,20.7,Female,Daisy
+2012-01-15,Creatinine,0.6,mg/dL,20.7,Female,Daisy
+2012-01-15,Total Protein,6.2,g/dL,20.7,Female,Daisy
+2012-01-15,Albumin,3.8,g/dL,20.7,Female,Daisy
+2012-01-15,Total Bilirubin,0.1,mg/dL,20.7,Female,Daisy
+2012-01-15,Alkaline Phosphatase,116,U/L,20.7,Female,Daisy
+2012-01-15,ALT,33,U/L,20.7,Female,Daisy
+2012-01-15,AST,35,U/L,20.7,Female,Daisy
+2012-01-15,Cholesterol,160,mg/dL,20.7,Female,Daisy
+2012-01-15,Calcium,8.5,mg/dL,20.7,Female,Daisy
+2012-01-15,Phosphorus,5.6,mg/dL,20.7,Female,Daisy
+2012-01-15,Sodium,153,mEq/L,20.7,Female,Daisy
+2012-01-15,Potassium,3.7,mEq/L,20.7,Female,Daisy
+2012-01-15,Chloride,119,mEq/L,20.7,Female,Daisy
+2012-01-15,WBC,6.9,10^3/μL,20.7,Female,Daisy
+2012-01-15,RBC,5.52,10^6/μL,20.7,Female,Daisy
+2012-01-15,Hemoglobin,13.5,g/dL,20.7,Female,Daisy
+2012-01-15,Hematocrit,43.7,%,20.7,Female,Daisy
+2012-01-15,MCV,79,fL,20.7,Female,Daisy
+2012-01-15,MCH,24.5,pg,20.7,Female,Daisy
+2012-01-15,MCHC,30.9,g/dL,20.7,Female,Daisy
+2012-01-15,Platelets,528,10^3/μL,20.7,Female,Daisy
+2012-01-15,Neutrophils,3105,/μL,20.7,Female,Daisy
+2012-01-15,Lymphocytes,3036,/μL,20.7,Female,Daisy
+2012-01-15,Monocytes,276,/μL,20.7,Female,Daisy
+2012-01-15,Neutrophils,%,45,%,20.7,Female,Daisy
+2012-01-15,Lymphocytes,%,44,%,20.7,Female,Daisy
+2012-01-15,Monocytes,%,4,%,20.7,Female,Daisy
+2008-08-28,Glucose,124,mg/dL,17.3,Female,Daisy
+2008-08-28,Urea Nitrogen,27,mg/dL,17.3,Female,Daisy
+2008-08-28,Creatinine,0.6,mg/dL,17.3,Female,Daisy
+2008-08-28,Total Protein,6.3,g/dL,17.3,Female,Daisy
+2008-08-28,Albumin,3.9,g/dL,17.3,Female,Daisy
+2008-08-28,Total Bilirubin,0.1,mg/dL,17.3,Female,Daisy
+2008-08-28,Alkaline Phosphatase,98,U/L,17.3,Female,Daisy
+2008-08-28,ALT,27,U/L,17.3,Female,Daisy
+2008-08-28,AST,25,U/L,17.3,Female,Daisy
+2008-08-28,Cholesterol,173,mg/dL,17.3,Female,Daisy
+2008-08-28,Calcium,8.9,mg/dL,17.3,Female,Daisy
+2008-08-28,Phosphorus,6.3,mg/dL,17.3,Female,Daisy
+2008-08-28,Sodium,149,mEq/L,17.3,Female,Daisy
+2008-08-28,Potassium,3.9,mEq/L,17.3,Female,Daisy
+2008-08-28,Chloride,116,mEq/L,17.3,Female,Daisy
+2008-08-28,WBC,5.9,10^3/μL,17.3,Female,Daisy
+2008-08-28,RBC,5.23,10^6/μL,17.3,Female,Daisy
+2008-08-28,Hemoglobin,13.2,g/dL,17.3,Female,Daisy
+2008-08-28,Hematocrit,41.7,%,17.3,Female,Daisy
+2008-08-28,MCV,80,fL,17.3,Female,Daisy
+2008-08-28,MCH,25.2,pg,17.3,Female,Daisy
+2008-08-28,MCHC,31.7,g/dL,17.3,Female,Daisy
+2008-08-28,Platelets,530,10^3/μL,17.3,Female,Daisy
+2008-08-28,Neutrophils,2832,/μL,17.3,Female,Daisy
+2008-08-28,Lymphocytes,2419,/μL,17.3,Female,Daisy
+2008-08-28,Monocytes,177,/μL,17.3,Female,Daisy
+2008-08-28,Eosinophils,413,/μL,17.3,Female,Daisy
+2008-08-28,Basophils,59,/μL,17.3,Female,Daisy
+2008-08-28,Neutrophils,%,48,%,17.3,Female,Daisy
+2008-08-28,Lymphocytes,%,41,%,17.3,Female,Daisy
+2008-08-28,Monocytes,%,3,%,17.3,Female,Daisy
+2008-08-28,Eosinophils,%,7,%,17.3,Female,Daisy
+2008-08-28,Basophils,%,1,%,17.3,Female,Daisy
+2007-01-12,Glucose,89,mg/dL,15.7,Female,Daisy
+2007-01-12,Creatinine,0.7,mg/dL,15.7,Female,Daisy
+2007-01-12,Total Protein,7.3,g/dL,15.7,Female,Daisy
+2007-01-12,Albumin,4.4,g/dL,15.7,Female,Daisy
+2007-01-12,Total Bilirubin,0.1,mg/dL,15.7,Female,Daisy
+2007-01-12,Alkaline Phosphatase,192,U/L,15.7,Female,Daisy
+2007-01-12,ALT,32,U/L,15.7,Female,Daisy
+2007-01-12,AST,22,U/L,15.7,Female,Daisy
+2007-01-12,Cholesterol,174,mg/dL,15.7,Female,Daisy
+2007-01-12,Calcium,8.9,mg/dL,15.7,Female,Daisy
+2007-01-12,Phosphorus,3.9,mg/dL,15.7,Female,Daisy
+2007-01-12,Sodium,142,mEq/L,15.7,Female,Daisy
+2007-01-12,Potassium,3.6,mEq/L,15.7,Female,Daisy
+2007-01-12,Chloride,108,mEq/L,15.7,Female,Daisy
+2007-01-12,Albumin/Globulin Ratio,1.5,,15.7,Female,Daisy
+2007-01-12,BUN/Creatinine Ratio,33,,15.7,Female,Daisy
+2007-01-12,Globulin,2.9,g/dL,15.7,Female,Daisy
+2007-01-12,Lipase,4,U/L,15.7,Female,Daisy
+2007-01-12,Amylase,367,U/L,15.7,Female,Daisy
+2007-01-12,Triglycerides,101,mg/dL,15.7,Female,Daisy
+2007-01-12,CPK,304,U/L,15.7,Female,Daisy
+2007-01-12,GGTP,102,U/L,15.7,Female,Daisy
+2007-01-12,Magnesium,1.6,mEq/L,15.7,Female,Daisy
+2007-01-12,Hematocrit,40.0,%,15.7,Female,Daisy
+2007-01-12,WBC,4.5,10^3/μL,15.7,Female,Daisy
+2007-01-12,RBC,5.60,10^6/μL,15.7,Female,Daisy
+2007-01-12,MCV,71,fL,15.7,Female,Daisy
+2007-01-12,MCH,25.2,pg,15.7,Female,Daisy
+2007-01-12,MCHC,35.3,g/dL,15.7,Female,Daisy
+2007-01-12,Platelets,337,10^3/μL,15.7,Female,Daisy
+2007-01-12,Neutrophils,1485,/μL,15.7,Female,Daisy
+2007-01-12,Lymphocytes,2835,/μL,15.7,Female,Daisy
+2007-01-12,Monocytes,135,/μL,15.7,Female,Daisy
+2007-01-12,Eosinophils,45,/μL,15.7,Female,Daisy
+2007-01-12,Neutrophils,%,33,%,15.7,Female,Daisy
+2007-01-12,Lymphocytes,%,63,%,15.7,Female,Daisy
+2007-01-12,Monocytes,%,3,%,15.7,Female,Daisy
+2007-01-12,Eosinophils,%,1,%,15.7,Female,Daisy
+```

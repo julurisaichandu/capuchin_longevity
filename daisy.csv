@@ -1,0 +1,486 @@
+date,test,result,units,age_years,sex,id
+2024-01-26,RBC,6.00,M/μL,NA,Female,Daisy
+2024-01-26,Hematocrit,43.4,%,NA,Female,Daisy
+2024-01-26,Hemoglobin,14.4,g/dL,NA,Female,Daisy
+2024-01-26,MCV,72,fL,NA,Female,Daisy
+2024-01-26,MCH,24.0,pg,NA,Female,Daisy
+2024-01-26,MCHC,33.2,g/dL,NA,Female,Daisy
+2024-01-26,WBC,5.9,K/μL,NA,Female,Daisy
+2024-01-26,% Neutrophils,50.0,%,NA,Female,Daisy
+2024-01-26,% Bands,1.0,%,NA,Female,Daisy
+2024-01-26,% Lymphocytes,24.0,%,NA,Female,Daisy
+2024-01-26,% Monocytes,3.0,%,NA,Female,Daisy
+2024-01-26,% Eosinophils,8.0,%,NA,Female,Daisy
+2024-01-26,% Basophils,1.0,%,NA,Female,Daisy
+2024-01-26,% Unclassified,13.0,%,NA,Female,Daisy
+2024-01-26,Neutrophils,2.95,K/μL,NA,Female,Daisy
+2024-01-26,Bands,59,/μL,NA,Female,Daisy
+2024-01-26,Lymphocytes,1.416,K/μL,NA,Female,Daisy
+2024-01-26,Monocytes,0.177,K/μL,NA,Female,Daisy
+2024-01-26,Eosinophils,0.472,K/μL,NA,Female,Daisy
+2024-01-26,Basophils,0.059,K/μL,NA,Female,Daisy
+2024-01-26,Unclassified,767,K/μL,NA,Female,Daisy
+2024-01-26,Platelets,494,K/μL,NA,Female,Daisy
+2024-01-26,Glucose,198,mg/dL,NA,Female,Daisy
+2024-01-26,IDEXX SDMA,6,μg/dL,NA,Female,Daisy
+2024-01-26,Creatinine,0.5,mg/dL,NA,Female,Daisy
+2024-01-26,BUN,33,mg/dL,NA,Female,Daisy
+2024-01-26,BUN:Creatinine Ratio,66.0,,NA,Female,Daisy
+2024-01-26,Phosphorus,2.4,mg/dL,NA,Female,Daisy
+2024-01-26,Calcium,9.2,mg/dL,NA,Female,Daisy
+2024-01-26,Sodium,148,mmol/L,NA,Female,Daisy
+2024-01-26,Potassium,3.7,mmol/L,NA,Female,Daisy
+2024-01-26,Na:K Ratio,40,,NA,Female,Daisy
+2024-01-26,Chloride,109,mmol/L,NA,Female,Daisy
+2024-01-26,TCO2,17,mmol/L,NA,Female,Daisy
+2024-01-26,Anion Gap,26,mmol/L,NA,Female,Daisy
+2024-01-26,Total Protein,6.8,g/dL,NA,Female,Daisy
+2024-01-26,Albumin,4.1,g/dL,NA,Female,Daisy
+2024-01-26,Globulin,2.7,g/dL,NA,Female,Daisy
+2024-01-26,Albumin:Globulin Ratio,1.5,,NA,Female,Daisy
+2024-01-26,ALT,17,U/L,NA,Female,Daisy
+2024-01-26,AST,21,U/L,NA,Female,Daisy
+2024-01-26,ALP,87,U/L,NA,Female,Daisy
+2024-01-26,GGT,45,U/L,NA,Female,Daisy
+2024-01-26,Bilirubin - Total,0.1,mg/dL,NA,Female,Daisy
+2024-01-26,Bilirubin - Unconjugated,0.0,mg/dL,NA,Female,Daisy
+2024-01-26,Bilirubin - Conjugated,<0.1,mg/dL,NA,Female,Daisy
+2024-01-26,Cholesterol,179,mg/dL,NA,Female,Daisy
+2024-01-26,Amylase,72,U/L,NA,Female,Daisy
+2024-01-26,Lipase,15,U/L,NA,Female,Daisy
+2024-01-26,Creatine Kinase,121,U/L,NA,Female,Daisy
+2024-01-26,Hemolysis Index,N,,NA,Female,Daisy
+2024-01-26,Lipemia Index,N,,NA,Female,Daisy
+2022-10-07,RBC,5.75,M/μL,NA,Female,Daisy
+2022-10-07,Hematocrit,41.8,%,NA,Female,Daisy
+2022-10-07,Hemoglobin,14.4,g/dL,NA,Female,Daisy
+2022-10-07,MCV,73,fL,NA,Female,Daisy
+2022-10-07,MCH,25.0,pg,NA,Female,Daisy
+2022-10-07,MCHC,34.4,g/dL,NA,Female,Daisy
+2022-10-07,WBC,6.7,K/μL,NA,Female,Daisy
+2022-10-07,% Neutrophils,57.6,%,NA,Female,Daisy
+2022-10-07,% Lymphocytes,38.7,%,NA,Female,Daisy
+2022-10-07,% Monocytes,2.8,%,NA,Female,Daisy
+2022-10-07,% Eosinophils,0.0,%,NA,Female,Daisy
+2022-10-07,% Basophils,0.9,%,NA,Female,Daisy
+2022-10-07,Neutrophils,3.859,K/μL,NA,Female,Daisy
+2022-10-07,Lymphocytes,2.593,K/μL,NA,Female,Daisy
+2022-10-07,Monocytes,0.188,K/μL,NA,Female,Daisy
+2022-10-07,Eosinophils,0,K/μL,NA,Female,Daisy
+2022-10-07,Basophils,0.06,K/μL,NA,Female,Daisy
+2022-10-07,Platelets,464,K/μL,NA,Female,Daisy
+2022-03-18,RBC,5.79,M/μL,NA,Female,Daisy
+2022-03-18,Hematocrit,42.4,%,NA,Female,Daisy
+2022-03-18,Hemoglobin,14.3,g/dL,NA,Female,Daisy
+2022-03-18,MCV,73,fL,NA,Female,Daisy
+2022-03-18,MCH,24.7,pg,NA,Female,Daisy
+2022-03-18,MCHC,33.7,g/dL,NA,Female,Daisy
+2022-03-18,WBC,6.0,K/μL,NA,Female,Daisy
+2022-03-18,% Neutrophils,57.0,%,NA,Female,Daisy
+2022-03-18,% Lymphocytes,18.0,%,NA,Female,Daisy
+2022-03-18,% Monocytes,5.0,%,NA,Female,Daisy
+2022-03-18,% Eosinophils,9.0,%,NA,Female,Daisy
+2022-03-18,% Basophils,5.0,%,NA,Female,Daisy
+2022-03-18,% Unclassified,6.0,%,NA,Female,Daisy
+2022-03-18,Neutrophils,3.42,K/μL,NA,Female,Daisy
+2022-03-18,Lymphocytes,1.08,K/μL,NA,Female,Daisy
+2022-03-18,Monocytes,0.3,K/μL,NA,Female,Daisy
+2022-03-18,Eosinophils,0.54,K/μL,NA,Female,Daisy
+2022-03-18,Basophils,0.3,K/μL,NA,Female,Daisy
+2022-03-18,Unclassified,360,/μL,NA,Female,Daisy
+2022-03-18,Platelets,536,K/μL,NA,Female,Daisy
+2022-03-18,Glucose,113,mg/dL,NA,Female,Daisy
+2022-03-18,IDEXX SDMA,5,μg/dL,NA,Female,Daisy
+2022-03-18,Creatinine,0.5,mg/dL,NA,Female,Daisy
+2022-03-18,BUN,30,mg/dL,NA,Female,Daisy
+2022-03-18,BUN:Creatinine Ratio,60.0,,NA,Female,Daisy
+2022-03-18,Phosphorus,3.3,mg/dL,NA,Female,Daisy
+2022-03-18,Calcium,9.5,mg/dL,NA,Female,Daisy
+2022-03-18,Sodium,148,mmol/L,NA,Female,Daisy
+2022-03-18,Potassium,4.4,mmol/L,NA,Female,Daisy
+2022-03-18,Na:K Ratio,34,,NA,Female,Daisy
+2022-03-18,Chloride,115,mmol/L,NA,Female,Daisy
+2022-03-18,TCO2,15,mmol/L,NA,Female,Daisy
+2022-03-18,Anion Gap,22,mmol/L,NA,Female,Daisy
+2022-03-18,Total Protein,6.5,g/dL,NA,Female,Daisy
+2022-03-18,Albumin,4.4,g/dL,NA,Female,Daisy
+2022-03-18,Globulin,2.1,g/dL,NA,Female,Daisy
+2022-03-18,Albumin:Globulin Ratio,2.1,,NA,Female,Daisy
+2022-03-18,ALT,36,U/L,NA,Female,Daisy
+2022-03-18,AST,33,U/L,NA,Female,Daisy
+2022-03-18,ALP,118,U/L,NA,Female,Daisy
+2022-03-18,GGT,50,U/L,NA,Female,Daisy
+2022-03-18,Bilirubin - Total,<0.1,mg/dL,NA,Female,Daisy
+2022-03-18,Bilirubin - Unconjugated,0.0,mg/dL,NA,Female,Daisy
+2022-03-18,Bilirubin - Conjugated,<0.1,mg/dL,NA,Female,Daisy
+2022-03-18,Cholesterol,209,mg/dL,NA,Female,Daisy
+2022-03-18,Amylase,100,U/L,NA,Female,Daisy
+2022-03-18,Lipase,15,U/L,NA,Female,Daisy
+2022-03-18,Creatine Kinase,127,U/L,NA,Female,Daisy
+2022-03-18,Hemolysis Index,1+,,NA,Female,Daisy
+2022-03-18,Lipemia Index,N,,NA,Female,Daisy
+2022-04-20,RBC,5.88,M/μL,30,Female,Daisy
+2022-04-20,Hematocrit,42.7,%,30,Female,Daisy
+2022-04-20,Hemoglobin,14.2,g/dL,30,Female,Daisy
+2022-04-20,MCV,73,fL,30,Female,Daisy
+2022-04-20,MCH,24.1,pg,30,Female,Daisy
+2022-04-20,MCHC,33.3,g/dL,30,Female,Daisy
+2022-04-20,WBC,4.9,K/μL,30,Female,Daisy
+2022-04-20,% Neutrophils,56.8,%,30,Female,Daisy
+2022-04-20,% Lymphocytes,36.7,%,30,Female,Daisy
+2022-04-20,% Monocytes,5.1,%,30,Female,Daisy
+2022-04-20,% Eosinophils,0.2,%,30,Female,Daisy
+2022-04-20,% Basophils,1.2,%,30,Female,Daisy
+2022-04-20,Neutrophils,2.783,K/μL,30,Female,Daisy
+2022-04-20,Lymphocytes,1.798,K/μL,30,Female,Daisy
+2022-04-20,Monocytes,0.25,K/μL,30,Female,Daisy
+2022-04-20,Eosinophils,0.01,K/μL,30,Female,Daisy
+2022-04-20,Basophils,0.059,K/μL,30,Female,Daisy
+2022-04-20,Platelets,468,K/μL,30,Female,Daisy
+2022-04-20,Glucose,106,mg/dL,30,Female,Daisy
+2022-04-20,IDEXX SDMA,7,μg/dL,30,Female,Daisy
+2022-04-20,Creatinine,0.5,mg/dL,30,Female,Daisy
+2022-04-20,BUN,25,mg/dL,30,Female,Daisy
+2022-04-20,BUN:Creatinine Ratio,50.0,,30,Female,Daisy
+2022-04-20,Phosphorus,3.2,mg/dL,30,Female,Daisy
+2022-04-20,Calcium,9.4,mg/dL,30,Female,Daisy
+2022-04-20,Sodium,151,mmol/L,30,Female,Daisy
+2022-04-20,Potassium,4.1,mmol/L,30,Female,Daisy
+2022-04-20,Na:K Ratio,37,,30,Female,Daisy
+2022-04-20,Chloride,115,mmol/L,30,Female,Daisy
+2022-04-20,TCO2,14,mmol/L,30,Female,Daisy
+2022-04-20,Anion Gap,26,mmol/L,30,Female,Daisy
+2022-04-20,Total Protein,7.6,g/dL,30,Female,Daisy
+2022-04-20,Albumin,4.8,g/dL,30,Female,Daisy
+2022-04-20,Globulin,2.8,g/dL,30,Female,Daisy
+2022-04-20,Albumin:Globulin Ratio,1.7,,30,Female,Daisy
+2022-04-20,ALT,30,U/L,30,Female,Daisy
+2022-04-20,AST,33,U/L,30,Female,Daisy
+2022-04-20,ALP,116,U/L,30,Female,Daisy
+2022-04-20,GGT,60,U/L,30,Female,Daisy
+2022-04-20,Bilirubin - Total,<0.1,mg/dL,30,Female,Daisy
+2022-04-20,Bilirubin - Unconjugated,0.0,mg/dL,30,Female,Daisy
+2022-04-20,Bilirubin - Conjugated,0.1,mg/dL,30,Female,Daisy
+2022-04-20,Cholesterol,193,mg/dL,30,Female,Daisy
+2022-04-20,Amylase,87,U/L,30,Female,Daisy
+2022-04-20,Lipase,14,U/L,30,Female,Daisy
+2022-04-20,Creatine Kinase,232,U/L,30,Female,Daisy
+2022-04-20,Hemolysis Index,N,,30,Female,Daisy
+2022-04-20,Lipemia Index,N,,30,Female,Daisy
+2019-07-12,RBC,5.96,M/μL,28,Female,Daisy
+2019-07-12,Hematocrit,44.1,%,28,Female,Daisy
+2019-07-12,Hemoglobin,14.8,g/dL,28,Female,Daisy
+2019-07-12,MCV,74,fL,28,Female,Daisy
+2019-07-12,MCH,24.8,pg,28,Female,Daisy
+2019-07-12,MCHC,33.6,g/dL,28,Female,Daisy
+2019-07-12,WBC,5.6,K/μL,28,Female,Daisy
+2019-07-12,% Neutrophils,52.4,%,28,Female,Daisy
+2019-07-12,% Lymphocytes,43.3,%,28,Female,Daisy
+2019-07-12,% Monocytes,3.2,%,28,Female,Daisy
+2019-07-12,% Eosinophils,0.0,%,28,Female,Daisy
+2019-07-12,% Basophils,1.1,%,28,Female,Daisy
+2019-07-12,Neutrophils,2.934,K/μL,28,Female,Daisy
+2019-07-12,Lymphocytes,2.425,K/μL,28,Female,Daisy
+2019-07-12,Monocytes,0.179,K/μL,28,Female,Daisy
+2019-07-12,Eosinophils,0,K/μL,28,Female,Daisy
+2019-07-12,Basophils,0.062,K/μL,28,Female,Daisy
+2019-07-12,Platelets,467,K/μL,28,Female,Daisy
+2019-07-12,Glucose,128,mg/dL,28,Female,Daisy
+2019-07-12,IDEXX SDMA,4,μg/dL,28,Female,Daisy
+2019-07-12,Creatinine,0.5,mg/dL,28,Female,Daisy
+2019-07-12,BUN,14,mg/dL,28,Female,Daisy
+2019-07-12,BUN:Creatinine Ratio,28.0,,28,Female,Daisy
+2019-07-12,Phosphorus,4.1,mg/dL,28,Female,Daisy
+2019-07-12,Calcium,9.6,mg/dL,28,Female,Daisy
+2019-07-12,Sodium,148,mmol/L,28,Female,Daisy
+2019-07-12,Potassium,4.1,mmol/L,28,Female,Daisy
+2019-07-12,Na:K Ratio,36,,28,Female,Daisy
+2019-07-12,Chloride,110,mmol/L,28,Female,Daisy
+2019-07-12,TCO2,11,mmol/L,28,Female,Daisy
+2019-07-12,Anion Gap,31,mmol/L,28,Female,Daisy
+2019-07-12,Total Protein,8.0,g/dL,28,Female,Daisy
+2019-07-12,Albumin,5.1,g/dL,28,Female,Daisy
+2019-07-12,Globulin,2.9,g/dL,28,Female,Daisy
+2019-07-12,Albumin:Globulin Ratio,1.8,,28,Female,Daisy
+2019-07-12,ALT,35,U/L,28,Female,Daisy
+2019-07-12,AST,36,U/L,28,Female,Daisy
+2019-07-12,ALP,120,U/L,28,Female,Daisy
+2019-07-12,GGT,66,U/L,28,Female,Daisy
+2019-07-12,Bilirubin - Total,<0.1,mg/dL,28,Female,Daisy
+2019-07-12,Bilirubin - Unconjugated,0.0,mg/dL,28,Female,Daisy
+2019-07-12,Bilirubin - Conjugated,0.1,mg/dL,28,Female,Daisy
+2019-07-12,Cholesterol,170,mg/dL,28,Female,Daisy
+2019-07-12,Amylase,102,U/L,28,Female,Daisy
+2019-07-12,Lipase,9,U/L,28,Female,Daisy
+2019-07-12,Creatine Kinase,95,U/L,28,Female,Daisy
+2019-07-12,Hemolysis Index,2+,,28,Female,Daisy
+2019-07-12,Lipemia Index,N,,28,Female,Daisy
+2018-09-20,RBC,5.9,M/μL,27,Female,Daisy
+2018-09-20,Hematocrit,43.7,%,27,Female,Daisy
+2018-09-20,Hemoglobin,15.0,g/dL,27,Female,Daisy
+2018-09-20,MCV,74,fL,27,Female,Daisy
+2018-09-20,MCH,25.4,pg,27,Female,Daisy
+2018-09-20,MCHC,34.3,g/dL,27,Female,Daisy
+2018-09-20,WBC,7.3,K/μL,27,Female,Daisy
+2018-09-20,% Neutrophils,61.4,%,27,Female,Daisy
+2018-09-20,% Lymphocytes,33.8,%,27,Female,Daisy
+2018-09-20,% Monocytes,3.2,%,27,Female,Daisy
+2018-09-20,% Eosinophils,0.6,%,27,Female,Daisy
+2018-09-20,% Basophils,1.0,%,27,Female,Daisy
+2018-09-20,Neutrophils,4.482,K/μL,27,Female,Daisy
+2018-09-20,Lymphocytes,2.467,K/μL,27,Female,Daisy
+2018-09-20,Monocytes,0.234,K/μL,27,Female,Daisy
+2018-09-20,Eosinophils,0.044,K/μL,27,Female,Daisy
+2018-09-20,Basophils,0.073,K/μL,27,Female,Daisy
+2018-09-20,Platelets,487,K/μL,27,Female,Daisy
+2018-09-20,Glucose,88,mg/dL,27,Female,Daisy
+2018-09-20,IDEXX SDMA,6,μg/dL,27,Female,Daisy
+2018-09-20,Creatinine,0.5,mg/dL,27,Female,Daisy
+2018-09-20,BUN,12,mg/dL,27,Female,Daisy
+2018-09-20,BUN:Creatinine Ratio,24.0,,27,Female,Daisy
+2018-09-20,Phosphorus,3.4,mg/dL,27,Female,Daisy
+2018-09-20,Calcium,9.0,mg/dL,27,Female,Daisy
+2018-09-20,Sodium,147,mmol/L,27,Female,Daisy
+2018-09-20,Potassium,3.7,mmol/L,27,Female,Daisy
+2018-09-20,Na:K Ratio,40,,27,Female,Daisy
+2018-09-20,Chloride,114,mmol/L,27,Female,Daisy
+2018-09-20,TCO2,15,mmol/L,27,Female,Daisy
+2018-09-20,Anion Gap,22,mmol/L,27,Female,Daisy
+2018-09-20,Total Protein,6.5,g/dL,27,Female,Daisy
+2018-09-20,Albumin,3.9,g/dL,27,Female,Daisy
+2018-09-20,Globulin,2.6,g/dL,27,Female,Daisy
+2018-09-20,Albumin:Globulin Ratio,1.5,,27,Female,Daisy
+2018-09-20,ALT,38,U/L,27,Female,Daisy
+2018-09-20,AST,40,U/L,27,Female,Daisy
+2018-09-20,ALP,93,U/L,27,Female,Daisy
+2018-09-20,GGT,34,U/L,27,Female,Daisy
+2018-09-20,Bilirubin - Total,0.1,mg/dL,27,Female,Daisy
+2018-09-20,Bilirubin - Unconjugated,0.0,mg/dL,27,Female,Daisy
+2018-09-20,Bilirubin - Conjugated,<0.1,mg/dL,27,Female,Daisy
+2018-09-20,Cholesterol,168,mg/dL,27,Female,Daisy
+2018-09-20,Amylase,88,U/L,27,Female,Daisy
+2018-09-20,Lipase,10,U/L,27,Female,Daisy
+2018-09-20,Creatine Kinase,980,U/L,27,Female,Daisy
+2018-09-20,Hemolysis Index,N,,27,Female,Daisy
+2018-09-20,Lipemia Index,N,,27,Female,Daisy
+2017-08-31,RBC,6.17,M/μL,26,Female,Daisy
+2017-08-31,Hematocrit,50.2,%,26,Female,Daisy
+2017-08-31,Hemoglobin,15.0,g/dL,26,Female,Daisy
+2017-08-31,MCV,81,fL,26,Female,Daisy
+2017-08-31,MCH,24.3,pg,26,Female,Daisy
+2017-08-31,MCHC,29.9,g/dL,26,Female,Daisy
+2017-08-31,WBC,6.3,K/μL,26,Female,Daisy
+2017-08-31,% Neutrophil,64.0,%,26,Female,Daisy
+2017-08-31,% Lymphocyte,29.0,%,26,Female,Daisy
+2017-08-31,% Monocyte,2.0,%,26,Female,Daisy
+2017-08-31,% Eosinophil,5.0,%,26,Female,Daisy
+2017-08-31,% Basophil,0.0,%,26,Female,Daisy
+2017-08-31,Neutrophil,4.032,K/μL,26,Female,Daisy
+2017-08-31,Lymphocyte,1.827,K/μL,26,Female,Daisy
+2017-08-31,Monocyte,0.126,K/μL,26,Female,Daisy
+2017-08-31,Eosinophil,0.315,K/μL,26,Female,Daisy
+2017-08-31,Basophil,0,K/μL,26,Female,Daisy
+2017-08-31,Platelet,496,K/μL,26,Female,Daisy
+2017-08-31,Glucose,103,mg/dL,26,Female,Daisy
+2017-08-31,IDEXX SDMA,7,μg/dL,26,Female,Daisy
+2017-08-31,Creatinine,0.5,mg/dL,26,Female,Daisy
+2017-08-31,BUN,16,mg/dL,26,Female,Daisy
+2017-08-31,BUN:Creatinine Ratio,32.0,,26,Female,Daisy
+2017-08-31,Phosphorus,4.3,mg/dL,26,Female,Daisy
+2017-08-31,Calcium,9.0,mg/dL,26,Female,Daisy
+2017-08-31,Sodium,147,mmol/L,26,Female,Daisy
+2017-08-31,Potassium,3.1,mmol/L,26,Female,Daisy
+2017-08-31,Na:K Ratio,47,,26,Female,Daisy
+2017-08-31,Chloride,115,mmol/L,26,Female,Daisy
+2017-08-31,TCO2,12,mmol/L,26,Female,Daisy
+2017-08-31,Anion Gap,23,mmol/L,26,Female,Daisy
+2017-08-31,Total Protein,5.8,g/dL,26,Female,Daisy
+2017-08-31,Albumin,3.6,g/dL,26,Female,Daisy
+2017-08-31,Globulin,2.2,g/dL,26,Female,Daisy
+2017-08-31,Alb:Glob Ratio,1.6,,26,Female,Daisy
+2017-08-31,ALT,25,U/L,26,Female,Daisy
+2017-08-31,AST,31,U/L,26,Female,Daisy
+2017-08-31,ALP,118,U/L,26,Female,Daisy
+2017-08-31,GGT,31,U/L,26,Female,Daisy
+2017-08-31,Bilirubin - Total,0.1,mg/dL,26,Female,Daisy
+2017-08-31,Bilirubin - Unconjugated,0.0,mg/dL,26,Female,Daisy
+2017-08-31,Bilirubin - Conjugated,<0.1,mg/dL,26,Female,Daisy
+2017-08-31,Cholesterol,138,mg/dL,26,Female,Daisy
+2017-08-31,Amylase,85,U/L,26,Female,Daisy
+2017-08-31,Lipase,6,U/L,26,Female,Daisy
+2017-08-31,Creatine Kinase,95,U/L,26,Female,Daisy
+2017-08-31,Hemolysis Index,N,,26,Female,Daisy
+2017-08-31,Lipemia Index,N,,26,Female,Daisy
+2013-03-17,RBC,5.21,M/μL,22,Female,Daisy
+2013-03-17,Hemoglobin,12.7,g/dL,22,Female,Daisy
+2013-03-17,Hematocrit,39.0,%,22,Female,Daisy
+2013-03-17,MCV,75,fL,22,Female,Daisy
+2013-03-17,MCH,24.4,pg,22,Female,Daisy
+2013-03-17,MCHC,32.6,g/dL,22,Female,Daisy
+2013-03-17,WBC,7.5,K/μL,22,Female,Daisy
+2013-03-17,Neutrophils,4050,/μL,22,Female,Daisy
+2013-03-17,Neutrophils,54,%,22,Female,Daisy
+2013-03-17,Bands,0,/μL,22,Female,Daisy
+2013-03-17,Bands,0,%,22,Female,Daisy
+2013-03-17,Lymphocytes,2775,/μL,22,Female,Daisy
+2013-03-17,Lymphocytes,37,%,22,Female,Daisy
+2013-03-17,Monocytes,225,/μL,22,Female,Daisy
+2013-03-17,Monocytes,3,%,22,Female,Daisy
+2013-03-17,Eosinophils,375,/μL,22,Female,Daisy
+2013-03-17,Eosinophils,5,%,22,Female,Daisy
+2013-03-17,Basophils,75,/μL,22,Female,Daisy
+2013-03-17,Basophils,1,%,22,Female,Daisy
+2013-03-17,Platelet Count,450,K/μL,22,Female,Daisy
+2013-03-17,Total Protein,5.7,g/dL,22,Female,Daisy
+2013-03-17,Albumin,3.6,g/dL,22,Female,Daisy
+2013-03-17,Globulin,2.1,g/dL,22,Female,Daisy
+2013-03-17,A/G Ratio,1.7,,22,Female,Daisy
+2013-03-17,AST,34,U/L,22,Female,Daisy
+2013-03-17,ALT,45,U/L,22,Female,Daisy
+2013-03-17,Alk Phosphatase,101,U/L,22,Female,Daisy
+2013-03-17,GGTP,45,U/L,22,Female,Daisy
+2013-03-17,Total Bilirubin,0.1,mg/dL,22,Female,Daisy
+2013-03-17,Urea Nitrogen,17,mg/dL,22,Female,Daisy
+2013-03-17,Creatinine,0.6,mg/dL,22,Female,Daisy
+2013-03-17,BUN/Creatinine Ratio,28,,22,Female,Daisy
+2013-03-17,Phosphorus,6.4,mg/dL,22,Female,Daisy
+2013-03-17,Glucose,64,mg/dL,22,Female,Daisy
+2013-03-17,Calcium,8.9,mg/dL,22,Female,Daisy
+2013-03-17,Sodium,157,mEq/L,22,Female,Daisy
+2013-03-17,Potassium,3.9,mEq/L,22,Female,Daisy
+2013-03-17,Na/K Ratio,40,,22,Female,Daisy
+2013-03-17,Chloride,124,mEq/L,22,Female,Daisy
+2009-08-20,RBC,5.30,M/μL,18,Female,Daisy
+2009-08-20,Hematocrit,40.0,%,18,Female,Daisy
+2009-08-20,WBC,4.5,K/μL,18,Female,Daisy
+2007-01-12,RBC,5.60,M/μL,16,Female,Daisy
+2007-01-12,Hematocrit,40.0,%,16,Female,Daisy
+2007-01-12,Hemoglobin,12.9,g/dL,16,Female,Daisy
+2007-01-12,MCV,71,fL,16,Female,Daisy
+2007-01-12,MCH,25.2,pg,16,Female,Daisy
+2007-01-12,MCHC,35.3,g/dL,16,Female,Daisy
+2007-01-12,Platelet Count,337,K/μL,16,Female,Daisy
+2007-01-12,Neutrophils,1485,/μL,16,Female,Daisy
+2007-01-12,Neutrophils,33,%,16,Female,Daisy
+2007-01-12,Bands,0,/μL,16,Female,Daisy
+2007-01-12,Bands,0,%,16,Female,Daisy
+2007-01-12,Lymphocytes,2835,/μL,16,Female,Daisy
+2007-01-12,Lymphocytes,63,%,16,Female,Daisy
+2007-01-12,Monocytes,135,/μL,16,Female,Daisy
+2007-01-12,Monocytes,3,%,16,Female,Daisy
+2007-01-12,Eosinophils,45,/μL,16,Female,Daisy
+2007-01-12,Eosinophils,1,%,16,Female,Daisy
+2007-01-12,Basophils,0,/μL,16,Female,Daisy
+2007-01-12,Basophils,0,%,16,Female,Daisy
+2007-01-12,Glucose,89,mg/dL,16,Female,Daisy
+2007-01-12,Creatinine,0.7,mg/dL,16,Female,Daisy
+2007-01-12,Total Protein,7.3,g/dL,16,Female,Daisy
+2007-01-12,Albumin,4.4,g/dL,16,Female,Daisy
+2007-01-12,Total Bilirubin,0.1,mg/dL,16,Female,Daisy
+2007-01-12,Alkaline Phosphatase,192,U/L,16,Female,Daisy
+2007-01-12,ALT,32,U/L,16,Female,Daisy
+2007-01-12,AST,22,U/L,16,Female,Daisy
+2007-01-12,Cholesterol,174,mg/dL,16,Female,Daisy
+2007-01-12,Calcium,9.8,mg/dL,16,Female,Daisy
+2007-01-12,Phosphorus,3.9,mg/dL,16,Female,Daisy
+2007-01-12,Sodium,142,mEq/L,16,Female,Daisy
+2007-01-12,Potassium,3.6,mEq/L,16,Female,Daisy
+2007-01-12,Chloride,108,mEq/L,16,Female,Daisy
+2007-01-12,Albumin/Globulin Ratio,1.5,,16,Female,Daisy
+2007-01-12,BUN/Creatinine Ratio,33,,16,Female,Daisy
+2007-01-12,Globulin,2.9,g/dL,16,Female,Daisy
+2007-01-12,Lipase,4,U/L,16,Female,Daisy
+2007-01-12,Amylase,367,U/L,16,Female,Daisy
+2007-01-12,Triglycerides,101,mg/dL,16,Female,Daisy
+2007-01-12,CPK,304,U/L,16,Female,Daisy
+2007-01-12,GGTP,102,U/L,16,Female,Daisy
+2007-01-12,Magnesium,1.6,mEq/L,16,Female,Daisy
+2004-10-15,T4 Total,2.7,ug/dL,13,Female,Daisy
+2004-10-15,T3 Assay,57,ng/dL,13,Female,Daisy
+2004-10-15,Thyroxine Free,21,pmol/L,13,Female,Daisy
+2004-10-15,WBC,10.2,K/μL,13,Female,Daisy
+2004-10-15,LYMP,4.1,K/μL,13,Female,Daisy
+2004-10-15,GRAN,5.2,K/μL,13,Female,Daisy
+2004-10-15,MID,0.9,K/μL,13,Female,Daisy
+2004-10-15,LYMP,40.3,%,13,Female,Daisy
+2004-10-15,GRAN,51.5,%,13,Female,Daisy
+2004-10-15,MID,8.2,%,13,Female,Daisy
+2004-10-15,HCT,42.9,%,13,Female,Daisy
+2004-10-15,MCV,66.0,fL,13,Female,Daisy
+2004-10-15,RBC,6.50,M/μL,13,Female,Daisy
+2004-10-15,HGB,14.9,g/dL,13,Female,Daisy
+2004-10-15,MCH,22.9,pg,13,Female,Daisy
+2004-10-15,MCHC,34.8,g/dL,13,Female,Daisy
+2004-10-15,RDW%,10.1,%,13,Female,Daisy
+2004-10-15,MPV,10.0,fL,13,Female,Daisy
+2004-10-15,PLT,238,K/μL,13,Female,Daisy
+2004-10-15,ALB,3.76,g/dL,13,Female,Daisy
+2004-10-15,ALKP,55,U/L,13,Female,Daisy
+2004-10-15,ALT,27,U/L,13,Female,Daisy
+2004-10-15,AMYL,358,U/L,13,Female,Daisy
+2004-10-15,BUN,17.5,mg/dL,13,Female,Daisy
+2004-10-15,Ca,9.61,mg/dL,13,Female,Daisy
+2004-10-15,CHOL,154.9,mg/dL,13,Female,Daisy
+2004-10-15,CREA,0.83,mg/dL,13,Female,Daisy
+2004-10-15,GLU,172.0,mg/dL,13,Female,Daisy
+2004-10-15,PHOS,7.67,mg/dL,13,Female,Daisy
+2004-10-15,TBIL,<0.10,mg/dL,13,Female,Daisy
+2004-10-15,TP,6.20,g/dL,13,Female,Daisy
+2004-10-15,GLOB,2.44,g/dL,13,Female,Daisy
+2004-10-15,Na,163.8,mmol/L,13,Female,Daisy
+2004-10-15,K,4.02,mmol/L,13,Female,Daisy
+2004-10-15,Cl,127.0,mmol/L,13,Female,Daisy
+1998-08-20,Fructosamine,186.0,micromoles/L,7,Female,Daisy
+1998-08-20,Glucose,105,mg/dL,7,Female,Daisy
+1998-08-20,Urea Nitrogen,23,mg/dL,7,Female,Daisy
+1998-08-20,Creatinine,1.3,mg/dL,7,Female,Daisy
+1998-08-20,Total Protein,6.0,g/dL,7,Female,Daisy
+1998-08-20,Albumin,4.0,g/dL,7,Female,Daisy
+1998-08-20,Bilirubin Total,0.1,mg/dL,7,Female,Daisy
+1998-08-20,Alkaline Phosphatase,51,U/L,7,Female,Daisy
+1998-08-20,ALT,137,U/L,7,Female,Daisy
+1998-08-20,AST,69,U/L,7,Female,Daisy
+1998-08-20,Cholesterol,174,mg/dL,7,Female,Daisy
+1998-08-20,Calcium,9.5,mg/dL,7,Female,Daisy
+1998-08-20,Phosphorous,7.0,mg/dL,7,Female,Daisy
+1998-08-20,Sodium,136,mEq/L,7,Female,Daisy
+1998-08-20,Potassium,3.3,mEq/L,7,Female,Daisy
+1998-08-20,Chloride,106,mEq/L,7,Female,Daisy
+1998-08-20,A/G,2.0,RATIO,7,Female,Daisy
+1998-08-20,BUN/Creatinine,18,RATIO,7,Female,Daisy
+1998-08-20,GLOBULIN,2.0,g/dL,7,Female,Daisy
+1998-08-20,LIPASE,11,U/L,7,Female,Daisy
+1998-08-20,AMYLASE,64,U/L,7,Female,Daisy
+1998-08-20,TRIGLYCERIDES,33,mg/dL,7,Female,Daisy
+1998-08-20,CPK,1994,U/L,7,Female,Daisy
+1998-08-20,GGTP,77,U/L,7,Female,Daisy
+1998-08-20,MAGNESIUM,2.1,mEq/L,7,Female,Daisy
+1998-08-20,OSMOLALITY CALCULATED,273,mOsm/L,7,Female,Daisy
+1998-08-20,HEMOGLOBIN,12.8,g/dL,7,Female,Daisy
+1998-08-20,HEMATOCRIT,43.9,%,7,Female,Daisy
+1998-08-20,WBC,6.7,THDS/CMM,7,Female,Daisy
+1998-08-20,RBC,5.46,MILL/CMM,7,Female,Daisy
+1998-08-20,MCV,80,fL,7,Female,Daisy
+1998-08-20,MCH,23.4,pg,7,Female,Daisy
+1998-08-20,MCHC,29.2,g/dL,7,Female,Daisy
+1998-08-20,PLATELET EST,MODERATE INCREASE,,7,Female,Daisy
+1998-08-20,ABSOLUTE POLYS,4020,,7,Female,Daisy
+1998-08-20,ABSOLUTE BANDS,0,0%,7,Female,Daisy
+1998-08-20,ABSOLUTE LYMPHS,2278,34%,7,Female,Daisy
+1998-08-20,ABSOLUTE MONOS,402,6%,7,Female,Daisy
+1998-08-20,ABSOLUTE EOS,0,0%,7,Female,Daisy
+1998-08-20,ABSOLUTE BASOS,0,0%,7,Female,Daisy
+1995-03-22,GIARDIA ELISA,NEG,,4,Female,Daisy
+1994-06-14,WBC,7.9,K/μL,3,Female,Daisy
+1994-06-14,RBC,6.07,M/μL,3,Female,Daisy
+1994-06-14,Hemoglobin,14.0,g/dL,3,Female,Daisy
+1994-06-14,Hematocrit,41.1,%,3,Female,Daisy
+1994-06-14,MCV,67.6,fL,3,Female,Daisy
+1994-06-14,MCH,23.0,pg,3,Female,Daisy
+1994-06-14,MCHC,34.0,g/dL,3,Female,Daisy
+1994-06-14,Platelets,291,K/μL,3,Female,Daisy
+1994-06-14,Neutrophils,36,%,3,Female,Daisy
+1994-06-14,Lymphocytes,57,%,3,Female,Daisy
+1994-06-14,Monocytes,5,%,3,Female,Daisy
+1994-06-14,Eosinophils,2,%,3,Female,Daisy
+1994-06-14,Basophils,0,%,3,Female,Daisy
